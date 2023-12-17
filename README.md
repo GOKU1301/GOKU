@@ -1,2 +1,2 @@
 # GOKU
-MY FIRST REPOSITORY on github
+MY FIRST REPOSITORY on github .
